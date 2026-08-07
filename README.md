@@ -23,13 +23,13 @@ Pioneer in **AI-augmented development workflows** — leveraging custom AI agent
 ### 🛠 Tech Stack & Tools
 
 **Languages & Frameworks:**
-`TypeScript` `JavaScript (ES6+)` `React` `Next.js` `Vue.js (Nuxt.js)` `Angular` `HTML5 / CSS3 / SASS`
+`TypeScript` `JavaScript (ES6+)` `React 19` `Next.js 16` `Vue.js 3 (Nuxt.js)` `Angular` `HTML5 / CSS3 / SASS`
 
 **Design Systems & Styling:**
 `Tailwind CSS` `Design Tokens` `Styled Components` `Storybook` `Nx Monorepo` `Figma` `Zeplin`
 
 **Architecture & Testing:**
-`Micro-Frontends` `Jest` `React Testing Library` `Cypress` `Karma/Jasmine` `Redux`
+`Micro-Frontends` `XState` `Zustand` `Pinia` `Jest` `Vitest` `React Testing Library` `Cypress` `Redux`
 
 **AI & Engineering Tools:**
 `AI Workflows (Claude, DeepMind Antigravity)` `Git` `GitHub Actions` `Jira`
@@ -38,10 +38,10 @@ Pioneer in **AI-augmented development workflows** — leveraging custom AI agent
 
 ### 📌 Featured Architectural Focus
 
-*   **[aptia-uds-ui Architecture Showcase](#)**: An Nx monorepo housing two distributed packages for design system architecture:
-    *   `uds-ui-tokens`: Semantic Tailwind CSS theme pipeline powered by design tokens.
-    *   `uds-ui-react`: Reusable React component library with Storybook documentation and accessibility compliance.
-*   **[Vue 3 + Nuxt.js Migration Pattern](#)**: Architectural blueprint for migrating monolithic legacy web applications to modern Vue 3 ecosystems.
+*   **[React 19 Enterprise Architecture](https://github.com/reneepaternesi/react19-enterprise-architecture)**: A cutting-edge React architecture demonstrating Next.js 16, React 19, Tailwind v4, and state orchestration using XState and Zustand. Includes comprehensive architectural documentation for complex multi-step wizards.
+*   **[Nuxt 3 SSR Architecture](https://github.com/reneepaternesi/nuxt-ssr-architecture)**: A production-ready Server-Side Rendering (SSR) architecture boilerplate utilizing Vue 3, Nuxt 3, Pinia for hydration, and Tailwind CSS.
+*   **[React Rollup Design System Architecture](https://github.com/reneepaternesi/react-rollup-ds-architecture)**: A White-label Design System Architecture Showcase powered by React, Rollup, Styled Components, and robust Storybook documentation workflows.
+*   **[Real Estate Open House Dashboard](https://github.com/reneepaternesi/real-estate-open-house-dashboard)**: A robust React application managing property viewings, featuring custom hooks for state management and native browser History API syncing for deep-linking.
 
 ---
 
